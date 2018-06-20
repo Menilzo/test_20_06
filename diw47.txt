@@ -1,3 +1,4 @@
 Bonjour les DIW 47! C'est bientôt 13h on a faim!
 
+Ceci est la branche principale du projet
 
